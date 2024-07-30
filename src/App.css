@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 } */
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.form {
+  width: 300px;
+  height: 400px;
+}
